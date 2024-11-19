@@ -26,7 +26,7 @@ To run this project, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/WatermarkAutomation.git
+git clone https://github.com/<your-username>/iTextAssessment_Watermark.git
 cd WatermarkAutomation
 ```
 
