@@ -47,4 +47,4 @@ The resulting PDFs will be saved in the src/main/results folder:
 
 - **watermarked_output_event_handler.pdf**: Generated text watermark using event handlers.
 - **watermarked_output_event_handler_withText.pdf**: Generated text on top of the watermark.
-![image](https://github.com/user-attachments/assets/4a4faa92-5f1a-48c5-ab36-e38549ef1059)
+
